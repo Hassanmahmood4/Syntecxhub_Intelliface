@@ -1,4 +1,4 @@
-# Project 1: Face Detection & Recognition
+# Project : Face Detection & Recognition
 
 Face detection using **OpenCV** (Haar cascades or DNN) and face recognition using the **face_recognition** library (face embeddings). Supports multiple faces per frame with bounding boxes and labels, and scripts to register new people.
 
